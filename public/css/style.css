@@ -1,0 +1,122 @@
+@import url('bootstrap.min.css');
+@import url('all.min.css');
+
+
+
+.wrapper .container-fluid .row .col-sm-2{
+    height: 89vh ;
+    /* 100% of viewport height */
+}
+
+header .top-header .row{
+margin-top: 0.5rem;
+margin-bottom: 0.8rem;
+font-weight: 500;
+line-height: 1.2;
+background-color: #2a2828;
+color: white;
+}
+
+
+/* Custom card style */
+.card {
+    color: white;
+    /* Text color */
+}
+
+/* More info link style */
+.more-info {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* Blue background color for the first card */
+.card-blue {
+    background-color: #437dbb;
+    /* Blue background color */
+}
+
+/* Green background color for the second card */
+.card-green {
+    background-color: #399e50;
+    /* Green background color */
+}
+
+/* Yellow background color for the third card */
+.card-yellow {
+    background-color: #ffc107;
+    /* Yellow background color */
+}
+
+/* Pink background color for the fourth card */
+.card-pink {
+    background-color: #b62267;
+    /* Pink background color */
+}
+/* Pink background color for the fifth card */
+.card-gray {
+    background-color: #673f3a;
+}
+/* Pink background color for the sixth card */
+.card-a {
+    background-color: #22b6af;
+}
+/* Pink background color for the fourth card */
+.card-b {
+    background-color: #aa4526;
+}
+
+/* Increase the height of card bodies */
+/* .card-body {
+    padding: 60px;
+} */
+
+
+.custom-card-text {
+    font-size: 48px;
+    margin: 0px
+}
+
+.text-none{
+    text-decoration: none;
+}
+
+.text-right{
+    text-align: right;
+}
+.wrapper .container-fluid .row .col-sm-2{
+    background-color: #e0e3e7;
+    padding: 0.625rem 0.4375rem 0.4375rem 0.4375rem;
+    color: #212529 !important;
+    font-size: 1.1rem;
+    font-weight: normal;
+}
+
+
+.wrapper .container-fluid .row .col-sm-2 .nav .nav-link{
+color: #fff;
+}
+
+.dropdown-menu{
+    background-color: #212529;
+}
+
+.report-section a{
+    text-decoration: none;
+}
+
+/* background: tomato;
+color: #fff;
+border: none;
+text-transform: uppercase;
+font-weight: 600;
+padding: 10 px 10px;
+display: block;
+margin: 27px auto;
+width: 30%;
+transition: all 0.3s;
+cursor: pointer; */
+
+
+
